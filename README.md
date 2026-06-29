@@ -1,6 +1,8 @@
 <h1 align="center">
     <a href="https://github.com/pixel-agents-hq/pixel-agents/discussions">
         <img src="webview-ui/public/banner.png" alt="Pixel Agents">
+        <img width="1336" height="1562" alt="image" src="https://github.com/user-attachments/assets/7f4971e7-0f3b-474e-9299-224bfff9e571" />
+        <img width="1304" height="1116" alt="image" src="https://github.com/user-attachments/assets/5617a21e-d0f5-4405-a60e-c9c0ca2203ff" />
     </a>
 </h1>
 
